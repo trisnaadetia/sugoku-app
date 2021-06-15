@@ -1,1 +1,1 @@
-# sugoku-app
+# sugoku
